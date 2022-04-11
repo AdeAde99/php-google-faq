@@ -7,6 +7,7 @@
 
     <title>php-google-faq</title>
 
+    <link href="css/style.css">
 </head>
 <body>
     <?php
